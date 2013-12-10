@@ -1,4 +1,4 @@
-Off-canvas-navigation
+Off-Canvas Navigation Menu
 =====================
 
-Simple jQuery off-canvas navigation
+simple, easy to use
